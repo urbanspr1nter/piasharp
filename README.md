@@ -32,7 +32,7 @@ You will need the following to properly build and run the project:
 
 If you want to skip building the project and go straight into running the program, you can download the release here:
 
-[Release Release Build · urbanspr1nter/piasharp (github.com)](https://github.com/urbanspr1nter/piasharp/releases/tag/release-1)
+[Release Release Build · urbanspr1nter/piasharp (github.com)](https://github.com/urbanspr1nter/piasharp/releases/tag/release-2)
 
 Simply run `PiaSharp.Driver.exe` and the `params.json` file will be loaded. No additional runtime arguments are needed.
 
