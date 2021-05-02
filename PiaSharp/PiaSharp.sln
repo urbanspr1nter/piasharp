@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiaSharp.Driver", "PiaSharp.Driver\PiaSharp.Driver.csproj", "{98C7F611-4C99-47D9-A17F-CAD0F67BC443}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiaSharp.Core", "PiaSharp.Core\PiaSharp.Core.csproj", "{9435C81B-44D8-487E-9040-EBD703C89566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C7F611-4C99-47D9-A17F-CAD0F67BC443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C7F611-4C99-47D9-A17F-CAD0F67BC443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C7F611-4C99-47D9-A17F-CAD0F67BC443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C7F611-4C99-47D9-A17F-CAD0F67BC443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9435C81B-44D8-487E-9040-EBD703C89566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9435C81B-44D8-487E-9040-EBD703C89566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9435C81B-44D8-487E-9040-EBD703C89566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9435C81B-44D8-487E-9040-EBD703C89566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2759A6D3-15EB-4BF9-AA61-2A689B9BC423}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,110 @@
+[
+  {
+    "Skip": false,
+    "File": "inputs/sibyl.jpg",
+    "OutputWidth": 100,
+    "OutputHeight": 126,
+    "TotalColors": 16,
+    "OutputFile": "sibyl_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/pikachu.jpg",
+    "OutputWidth": 240,
+    "OutputHeight": 135,
+    "TotalColors": 16,
+    "OutputFile": "pikachu_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/doom.png",
+    "OutputWidth": 240,
+    "OutputHeight": 135,
+    "TotalColors": 16,
+    "OutputFile": "doom_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/smb.jpg",
+    "OutputWidth": 426,
+    "OutputHeight": 240,
+    "TotalColors": 16,
+    "OutputFile": "smb_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/self.jpg",
+    "OutputWidth": 135,
+    "OutputHeight": 90,
+    "TotalColors": 10,
+    "OutputFile": "self_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/alexa.jpg",
+    "OutputWidth": 100,
+    "OutputHeight": 100,
+    "TotalColors": 10,
+    "OutputFile": "alexa_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/landscape_vector.png",
+    "OutputWidth": 125,
+    "OutputHeight": 84,
+    "TotalColors": 16,
+    "OutputFile": "landscape_vector_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/salesforce_tower.jpg",
+    "OutputWidth": 110,
+    "OutputHeight": 160,
+    "TotalColors": 16,
+    "OutputFile": "salesforce_tower_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/apricots.png",
+    "OutputWidth": 100,
+    "OutputHeight": 66,
+    "TotalColors": 16,
+    "OutputFile": "apricots_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/riley_small.jpg",
+    "OutputWidth": 125,
+    "OutputHeight": 83,
+    "TotalColors": 15,
+    "OutputFile": "riley_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/obama.png",
+    "OutputWidth": 96,
+    "OutputHeight": 166,
+    "TotalColors": 10,
+    "OutputFile": "obama_output.png",
+    "Debug": true
+  },
+  {
+    "Skip": true,
+    "File": "inputs/blue_marble.jpg",
+    "OutputWidth": 100,
+    "OutputHeight": 100,
+    "TotalColors": 16,
+    "OutputFile": "blue_marble_output.png",
+    "Debug": true
+  }
+]
